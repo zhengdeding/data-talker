@@ -23,4 +23,4 @@ Run the following to start the backend:
 poetry run python data_talker/service.py
 ```
 
-# Thank you!
+# Thank you & Bye~
