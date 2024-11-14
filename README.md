@@ -22,3 +22,5 @@ Run the following to start the backend:
 ```bash
 poetry run python data_talker/service.py
 ```
+
+# Thank you!
